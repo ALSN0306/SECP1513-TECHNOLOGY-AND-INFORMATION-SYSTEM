@@ -7,3 +7,5 @@
  SESSION : SEMESTER 1 2025/2026\
  SECTION : 04\
  LECTURER : DR SHAFAATUNNUR BINTI HASAN\
+ \
+🚀 You can also access my assignments and projects via my e-portfolio. 🚀
