@@ -8,4 +8,4 @@
  SECTION : 04\
  LECTURER : DR SHAFAATUNNUR BINTI HASAN\
  \
-🚀 You can also access my assignments and projects via my e-portfolio. 🚀
+🚀 You can also access my assignments and projects via [my e-portfolio](https://alsn0306.github.io/E-PORTFOLIO/). 🚀
