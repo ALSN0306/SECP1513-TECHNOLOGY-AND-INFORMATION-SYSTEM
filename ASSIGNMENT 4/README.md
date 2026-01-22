@@ -8,3 +8,6 @@ After that, the employees from that company shared with us the different job sco
 Besides that, they also shared their experiences about the differences between work, internship and student life. Moreover, they also gave us advice to improve ourselves before entering the ICT industry. For instance, we need to learn from our mistakes and avoid making the same mistakes in future work.
 
 ## 📑 Poster 2
+
+
+## 🌐 If you are unable to open the posters, please [click here]() to see the poster 1 and [click here]() to see the poster 2.
