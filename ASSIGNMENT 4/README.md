@@ -10,4 +10,4 @@ Besides that, they also shared their experiences about the differences between w
 ## 📑 Poster 2
 
 
-## 🌐 If you are unable to open the posters, please [click here]() to see the poster 1 and [click here]() to see the poster 2.
+## 🌐 If you are unable to open the posters, please [click here](https://drive.google.com/file/d/1VDdtte1JCwFDXGXP_s50craxLv1WOV94/view?usp=sharing) to see the poster 1 and [click here](https://drive.google.com/file/d/1uJNjnUgd56c70i_3JDltSqLg3qRR26pK/view?usp=sharing) to see the poster 2.
